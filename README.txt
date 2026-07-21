@@ -29,6 +29,12 @@ This dashboard addresses these challenges by providing a single interactive view
   <img src="screenshots/dashboard.jpg" width="950">
 </p>
 
+## Data Model
+
+<p align="center">
+  <img src="screenshots/data_model.jpg" width="950">
+</p>
+
 ---
 
 
@@ -195,7 +201,8 @@ Chocolate-Sales-Analysis/
 │   └── Sales_Analysis.pbix
 │
 ├── Screenshots/
-│   └── dashboard.jpg
+	├── dashboard.jpg
+	└── data_model.jpg
 │
 ├── README.md
 │
