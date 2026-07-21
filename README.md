@@ -1,4 +1,4 @@
-# Chocolate Sales Analysis
+# 📊Chocolate Sales Analysis
 ## Project Overview
 
 The Chocolate Sales Analysis Dashboard is a Business Intelligence solution developed in Power BI to analyze sales performance, profitability, shipment activity, and salesperson effectiveness.
@@ -13,11 +13,11 @@ Management required a centralized reporting solution to answer critical business
 
 The organization lacked visibility into:
 
-- Overall profitability generated from chocolate sales.
-- Shipment volume and operational activity.
-- Revenue generated per shipped box.
-- Top-performing sales representatives.
-- Sales growth compared to previous periods.
+1. Overall profitability generated from chocolate sales.
+2. Shipment volume and operational activity.
+3. Revenue generated per shipped box.
+4. Top-performing sales representatives.
+5. Sales growth compared to previous periods.
 
 This dashboard addresses these challenges by providing a single interactive view of business performance.
 
@@ -26,7 +26,7 @@ This dashboard addresses these challenges by providing a single interactive view
 ## Dashboard Preview
 
 <p align="center">
-  <img src="Screenshots/dashboard.jpg" width="950">
+  <img src="screenshots/dashboard.jpg" width="950">
 </p>
 
 ---
